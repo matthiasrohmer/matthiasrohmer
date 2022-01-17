@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Owners Text";
+  src: url("subset-OwnersText-Regular.a57da6d0.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Owners Text";
+  src: url("subset-OwnersText-Medium.2f7c63c1.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Owners XWide";
+  src: url("subset-OwnersXWide-Bold.6fd881ed.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Lust Script";
+  src: url("subset-LustScript.f8b55d38.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+body {
+  font-family: "Owners Text";
+  padding: 0;
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Owners XWide";
+  margin-top: 0;
+  padding-bottom: 20px;
+}
+/*# sourceMappingURL=index.fa0ebdb4.css.map */
